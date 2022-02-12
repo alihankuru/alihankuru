@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**alihankuru/alihankuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Alihan. :wave:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Junior Developer | Computer Engineering
+
+### Reach out to me
+
+
+
+[<img width="22" align="left" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedln]
+
+
+
+[<img width="22" align="left" src="https://unpkg.com/simple-icons@v6/icons/stackoverflow.svg"/>][stackoverflow]
+
+
+<br />
+
+
+### Tech I use
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="35" height="35" margin-left:10>
+
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width="35" height="35" margin-left:10>
+
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="35" height="35" margin-left:50>
+
+[linkedln]:https://www.linkedin.com/in/alihan-kuru-231021177/
+[stackoverflow]:https://stackoverflow.com/users/15464747/alihan-kuru
+
+
