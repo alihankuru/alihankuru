@@ -8,7 +8,7 @@
 
 
 
-[<img width="22" align="left" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedln]
+[<img width="22" align="left" src=<a href="https://iconscout.com/icons/linkedin" class="text-underline font-size-sm" target="_blank">Linkedin</a> by <a href="https://iconscout.com/contributors/juraj-sedlak" class="text-underline font-size-sm" target="_blank">Juraj Sedlák</a>/>][linkedln]
 
 
 
