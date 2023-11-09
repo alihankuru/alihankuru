@@ -2,7 +2,7 @@
 ### Hi there, I'm Alihan. :wave:
 
 
-## Junior Developer | Computer Engineering
+## Junior Developer | Computer Engineer
 
 ### Reach out to me
 
