@@ -13,6 +13,7 @@
 
 
 [<img width="22" align="left" src="https://unpkg.com/simple-icons@v6/icons/stackoverflow.svg"/>][stackoverflow]
+[<img width="22" align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"/>][stackoverflow]
 
 
 <br />
