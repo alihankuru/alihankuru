@@ -8,7 +8,7 @@
 
 
 
-[<img width="22" align="left" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedln]
+[<img width="22" align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>][linkedln]
 
 
 
